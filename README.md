@@ -16,10 +16,13 @@ A beginner Python project that simulates a basic railway reservation system.
 - Passenger details checking
 - Train information display
 
+### v1.1
+- Added Passenger details
+- Age verfication
+- Added Random train number and timings
+
 ## Future Updates
-- Passenger details
-- Age verification
-- Random train numbers and timings
+- Multiple Passenger details
 - PNR generation
 - Seat management
 - File handling
