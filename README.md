@@ -28,8 +28,11 @@ A beginner Python project that simulates a basic railway reservation system.
 ### v1.3
 - Seat management
 
-## Future Updates
+### v1.4
 - Overbooking Prevention
+- Coach management
+
+## Future Updates
 - Multiple Routes Booking
 - Multiple Train Choices
 - File handling
