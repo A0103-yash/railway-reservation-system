@@ -25,10 +25,13 @@ A beginner Python project that simulates a basic railway reservation system.
 - Multiple Passenger details
 - PNR generation and PNR enquiry
 
-## Future Updates
+### v1.3
 - Seat management
+
+## Future Updates
 - Overbooking Prevention
 - Multiple Routes Booking
+- Multiple Train Choices
 - File handling
 - Ticket Fare handling
 - Ticket Cancellation
