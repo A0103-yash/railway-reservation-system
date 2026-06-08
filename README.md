@@ -40,8 +40,10 @@ A beginner Python project that simulates a basic railway reservation system.
 - File handling(Saving details)
 - More Classified and structured
 
-## Future Updates
+### v1.7
 - Proper File Handling
+
+## Future Updates
 - Ticket Fare handling
 - Ticket Cancellation
 - Advance Railway Reservation System
