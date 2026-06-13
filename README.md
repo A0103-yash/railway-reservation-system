@@ -48,6 +48,12 @@ A beginner Python project that simulates a basic railway reservation system.
 - Ticket Cancellation
 
 ## Future Updates
+- Waiting List
+- Waiting List Managemenet
+- Creating Account
+- User Login 
+- JSON Database 
+- Admin Panel
 - Advance Railway Reservation System
 
 ## Author
