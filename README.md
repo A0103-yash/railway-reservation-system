@@ -51,9 +51,11 @@ A beginner Python project that simulates a basic railway reservation system.
 - Waiting List
 - Waiting List Managemenet
 
-## Future Updates
+### v1.10
 - Creating Account
 - User Login 
+
+## Future Updates
 - JSON Database 
 - Admin Panel
 - Advance Railway Reservation System
