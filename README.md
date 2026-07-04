@@ -58,8 +58,10 @@ A beginner Python project that simulates a basic railway reservation system.
 ### v1.11
 - JSON Database
 
-## Future Updates
+### v1.12
 - Admin Panel
+
+## Future Updates
 - Advance Railway Reservation System
 
 ## Author
